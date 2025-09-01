@@ -58,8 +58,10 @@ different obesity categories.
 
 ## 🌐 Live Demo & Screenshot
 
--   **Live Demo:** \[Streamlit App Link Here\]\
--   **App Screenshot:** (Add your screenshot below in the repo)
+-   **Live Demo:** (https://obesity-prediction-b5.streamlit.app/)
+-   **App Screenshot:** 
+<img width="993" height="821" alt="image" src="https://github.com/user-attachments/assets/f71aa629-c26c-4b3c-83cc-7a2d6c67c5d5" />
+
 
 ------------------------------------------------------------------------
 

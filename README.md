@@ -2,7 +2,7 @@
 
 This project is a **Streamlit web application** designed to predict
 **Obesity Categories** based on user inputs such as Age, Gender, Height,
-Weight, BMI, and Physical Activity Level.\
+Weight, BMI, and Physical Activity Level.
 The app uses a trained machine learning model to classify users into
 different obesity categories.
 
@@ -10,25 +10,25 @@ different obesity categories.
 
 ## 📊 Dataset Information
 
--   Total records: 1000\
+-   Total records: 1000
 -   Features:
-    -   `Age` (int)\
-    -   `Gender` (Male/Female)\
-    -   `Height` (float)\
-    -   `Weight` (float)\
-    -   `BMI` (float)\
-    -   `PhysicalActivityLevel` (int)\
+    -   `Age` (int)
+    -   `Gender` (Male/Female)
+    -   `Height` (float)
+    -   `Weight` (float)
+    -   `BMI` (float)
+    -   `PhysicalActivityLevel` (int)
     -   `ObesityCategory` (Target variable)
 
 ------------------------------------------------------------------------
 
 ## 🔹 Features of the Application
 
--   User-friendly web interface built using **Streamlit**\
+-   User-friendly web interface built using **Streamlit**
 -   Takes inputs for **Age, Gender, Height, Weight, and Activity
-    Level**\
--   Computes **BMI automatically**\
--   Predicts **Obesity Category** using trained ML model\
+    Level**
+-   Computes **BMI automatically**
+-   Predicts **Obesity Category** using trained ML model
 -   Displays results in real-time with **visualization**
 
 ------------------------------------------------------------------------

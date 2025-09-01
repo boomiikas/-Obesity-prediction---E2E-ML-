@@ -38,7 +38,7 @@ different obesity categories.
 1.  Clone this repository
 
     ``` bash
-    git clone https://github.com/your-username/obesity-prediction-app.git
+    git clone https://github.com/boomiikas/obesity-prediction-app.git
     cd obesity-prediction-app
     ```
 
